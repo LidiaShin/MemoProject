@@ -1,0 +1,38 @@
+
+p{	
+font-size:30px;
+text-align:center;	
+font-family: 'Questrial', sans-serif;
+}
+
+
+#top{
+font-family: 'Poiret One', cursive;		
+}
+
+.btn{
+	
+color:blue;
+font-family: 'Poiret One', cursive;	
+border-radius: 7px;
+width:100px;
+
+}
+
+
+
+
+#result{
+font-size:11px;
+font-family:verdana;
+padding:3px;	
+border-collapse: collapse; 
+margin:auto;
+}
+
+td {
+  border-bottom: 1pt solid black;
+}
+
+
+
