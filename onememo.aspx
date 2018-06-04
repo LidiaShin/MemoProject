@@ -28,7 +28,7 @@ void Page_Load()
 
  string data;
  
- string memo_path = "c:\\home\\ProjectMemo\\BMI\\bmiData.txt";
+ string memo_path = "c:\\home\\MemoProject\\BMI\\bmiData.txt";
  
  void Memo_Save(object o, EventArgs e)
  {
